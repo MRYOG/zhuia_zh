@@ -1,5 +1,5 @@
 +++
-title="waz"
+title="iRay"
 description="a basic demo of zola. Does it work? This old man, he played one. He played knick knack on my drum."
 date=2019-03-27
 
@@ -32,7 +32,7 @@ def foo(bar, **kwargs):
 * Phasellus at dui in ligula mollis ultricies.
 * Mauris mollis tincidunt felis.
 * Nullam rutrum.
-
+  zola init myblog
 ### Yet another list
 1. Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa,
    quis varius mi purus non odio.
